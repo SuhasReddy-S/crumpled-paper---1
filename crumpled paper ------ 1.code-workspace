@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\whitehat jr\\SupplyMission-master"
+		},
+		{
+			"path": "..\\whitehat jr\\angryBirdsStage2TeacherActivity-master"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MatterJSBoilerPlate-master"
+	}
+}
